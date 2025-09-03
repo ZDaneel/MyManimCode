@@ -1,10 +1,11 @@
 # MyManimCode
-存放个人制作manim相关视频的代码
 
-代码中所用图片均没有上传
+Store the code for personal Manim-related video production.
 
-在04-pointer之后，大量使用面向对象
+The images used in the code have not been uploaded.
 
-Manim版本为ManimGL v1.6.1 [3b1b/manim: Animation engine for explanatory math videos](https://github.com/3b1b/manim)
+After 04-pointer, a large number of object-oriented approaches are used.
 
-部分使用到了社区版的ManimCE，版本为Manim Community v0.18.0.post0
+Manim version is ManimGL v1.6.1 [3b1b/manim: Animation engine for explanatory math videos](https://github.com/3b1b/manim)
+
+Partially uses the community version of ManimCE, version Manim Community v0.18.0.post0
